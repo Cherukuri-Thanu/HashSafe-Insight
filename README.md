@@ -11,7 +11,7 @@ This script is a password security checker that uses the k-anonymity model and P
 
 ## How to Use
 1. Clone this repository.
-2. Run the script with a file containing passwords, one per line: `python password_checker.py passwords.txt`.
+2. Run the script with a file containing passwords, one per line: `python check_my_password.py input_passwords.txt`.
 
 ## Requirements
 - Python 3.x
